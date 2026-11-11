@@ -1,0 +1,2 @@
+Total Events Analyzed,Successful Logons,Failed Logons,Logoffs,Failed Logon Threshold,Time Window Minutes,Flagged Failure Events,Accounts Requiring Review,Source IPs Requiring Review,Analyst Assessment
+1000,650,250,100,10,15,0,0,0,Review required; no malicious activity determined.
